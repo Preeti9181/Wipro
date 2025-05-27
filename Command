@@ -1,0 +1,1 @@
+Execute-MSI -Action Install -Path "C:\path\to\your.msi" -DeployMode
