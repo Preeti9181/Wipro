@@ -1,1 +1,2 @@
 Execute-MSI -Action Install -Path "C:\path\to\your.msi" -DeployMode
+Execute-MSI -Action Uninstall -Path "{GUID of the product}"
