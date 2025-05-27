@@ -1,4 +1,5 @@
 Execute-MSI -Action Install -Path "C:\path\to\your.msi" -DeployMode
 Execute-MSI -Action Uninstall -Path "{GUID of the product}"
 Invoke-AppDeployToolkit.ps1 -DeploymentType Uninstall -DeployMode Silent
+ Invoke-AppDeployToolkit.exe /32 -DeploymentType Uninstall -DeployMode Silent
  
