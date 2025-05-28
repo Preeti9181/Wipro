@@ -41,28 +41,12 @@ Execute-MSP -Path 'Adobe_Reader_11.0.3_EN.msp'
 Execute-MSP -Path 'AcroRdr2017Upd1701130143_MUI.msp' -AddParameters 'ALLUSERS=1'
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-Training dates
 
-21st May to 20th June
 
-Batch Name
+GIT Username : b91user39
 
-DWS - Batch 1- Wintel
+GIT Email ID: b91user39@rpsconsulting.in
 
-GIT Username
+GIT Lab URL: gitlab.rpsconsulting.in
 
-b91user39
-
-GIT Email ID
-
-b91user39@rpsconsulting.in
-
-GIT Lab URL
-
-gitlab.rpsconsulting.in
-
-GIT Lab Password
-
- 
-
-Wipro@2025
+GIT Lab Password: Wipro@2025
