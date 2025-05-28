@@ -11,4 +11,4 @@ C:\Users\admin\Downloads\PSADT\V3 working\AppDeployToolkit\PSAppDeployToolkit\Fr
 https://www.advancedinstaller.com/user-guide/msiexec.html
 Execute-MSI -Action 'Install' -Path 'Adobe_FlashPlayer_11.2.202.233_x64_EN.msi'
  Execute-MSI -Action 'Install' -Path 'C:\Users\admin\Downloads\PSADT\V3 working\AppDeployToolkit\PSAppDeployToolkit\Frontend\v3\AppDeployToolkit\Adobe_FlashPlayer_11.2.202.233_x64_EN.msi'
-
+Execute-MSI -Action 'Install' -Path "$dirFiles\Adobe_FlashPlayer_11.2.202.233_x64_EN.msi"
