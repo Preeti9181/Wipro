@@ -44,9 +44,7 @@ Execute-MSP -Path 'AcroRdr2017Upd1701130143_MUI.msp' -AddParameters 'ALLUSERS=1'
 
 
 GIT Username : b91user39
-
 GIT Email ID: b91user39@rpsconsulting.in
-
 GIT Lab URL: gitlab.rpsconsulting.in
-
-GIT Lab Password: Wipro@2025
+GIT Lab Password: --
+------------------------------------------------------------------------
