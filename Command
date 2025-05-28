@@ -9,3 +9,5 @@ Invoke-AppDeployToolkit.ps1 -DeploymentType Uninstall -DeployMode Silent
 28/05/2025
 C:\Users\admin\Downloads\PSADT\V3 working\AppDeployToolkit\PSAppDeployToolkit\Frontend\v3\AppDeployToolkit
 https://www.advancedinstaller.com/user-guide/msiexec.html
+Execute-MSI -Action 'Install' -Path 'Adobe_FlashPlayer_11.2.202.233_x64_EN.msi'
+ 
