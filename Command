@@ -5,3 +5,6 @@ Execute-MSI -Action Uninstall -Path "{GUID of the product}"
 Invoke-AppDeployToolkit.ps1 -DeploymentType Uninstall -DeployMode Silent
  Invoke-AppDeployToolkit.exe /32 -DeploymentType Uninstall -DeployMode Silent
  https://psappdeploytoolkit.com/docs/usage/how-to-deploy --refernce link
+
+28/05/2025
+C:\Users\admin\Downloads\PSADT\V3 working\AppDeployToolkit\PSAppDeployToolkit\Frontend\v3\AppDeployToolkit
