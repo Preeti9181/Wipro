@@ -61,3 +61,7 @@ https://learn.microsoft.com/en-us/windows/msix/packaging-tool/tool-overview
 https://learn.microsoft.com/en-us/windows/msix/packaging-tool/create-app-package?source=recommendations
 
  https://learn.microsoft.com/en-us/windows/msix/packaging-tool/create-app-package
+https://beebom.com/how-fix-publisher-could-not-be-verified-error-windows-11/ -resolve issue
+How to Fix "Publisher Could Not Be Verified" Error on Windows 11
+Use our tutorial to fix the "Publisher could not be verified" error on Windows 11. This will allow you to install MSIX/MSIXBUNDLE packages.
+ 
