@@ -60,4 +60,4 @@ Get the tools to deploy Chrome browser for your enterprise for Windows & Mac. Ex
 https://learn.microsoft.com/en-us/windows/msix/packaging-tool/tool-overview
 https://learn.microsoft.com/en-us/windows/msix/packaging-tool/create-app-package?source=recommendations
 
- 
+ https://learn.microsoft.com/en-us/windows/msix/packaging-tool/create-app-package
