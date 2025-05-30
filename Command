@@ -66,3 +66,5 @@ How to Fix "Publisher Could Not Be Verified" Error on Windows 11
 Use our tutorial to fix the "Publisher could not be verified" error on Windows 11. This will allow you to install MSIX/MSIXBUNDLE packages.
  
 https://github.com/beeradmoore/dlss-swapper/issues/97
+https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool
+https://learn.microsoft.com/en-us/windows/msix/package/create-certificate-package-signing
