@@ -54,4 +54,8 @@ GIT Lab Password: --
 https://chromeenterprise.google/download/?ref=learnintune.net
 Enterprise Browser Download for Windows & Mac - Chrome Enterprise
 Get the tools to deploy Chrome browser for your enterprise for Windows & Mac. Explore downloads, management templates, updates and try beta.
+
+30-05-2025
+
+https://learn.microsoft.com/en-us/windows/msix/packaging-tool/tool-overview
  
