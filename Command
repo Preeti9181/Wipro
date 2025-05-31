@@ -74,3 +74,5 @@ https://learn.microsoft.com/en-us/windows/msix/package/create-certificate-packag
 31-05-2025
 
 https://learn.microsoft.com/en-us/sysinternals/downloads/procmon
+https://learn.microsoft.com/en-us/windows/msix/psf/package-support-framework-overview
+https://www.nuget.org/packages/Microsoft.PackageSupportFramework/1.0.240212.1
