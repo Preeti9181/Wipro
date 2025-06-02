@@ -91,5 +91,10 @@ https://learn.microsoft.com/en-us/windows/win32/win7appqual/application-compatib
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-7/cc766151(v=ws.10)
 https://learn.microsoft.com/en-us/sysinternals/downloads/procmon
 http://dependencywalker.com/
+https://learn.microsoft.com/en-us/sysinternals/downloads/procmon
 Dependency Walker (depends.exe) Home Page
+https://learn.microsoft.com/en-us/sysinternals/downloads/procmon
+Process Monitor - Sysinternals
+Monitor file system, Registry, process, thread and DLL activity in real-time.
+ 
  
