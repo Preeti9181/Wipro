@@ -89,3 +89,7 @@ The End-to-End application packaging process is presented in our complete tutori
 https://learn.microsoft.com/en-us/windows/win32/win7appqual/application-compatibility-toolkit--act-
 
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-7/cc766151(v=ws.10)
+https://learn.microsoft.com/en-us/sysinternals/downloads/procmon
+http://dependencywalker.com/
+Dependency Walker (depends.exe) Home Page
+ 
