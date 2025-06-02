@@ -97,4 +97,4 @@ https://learn.microsoft.com/en-us/sysinternals/downloads/procmon
 Process Monitor - Sysinternals
 Monitor file system, Registry, process, thread and DLL activity in real-time.
  
- 
+ https://techcommunity.microsoft.com/blog/askperf/demystifying-shims---or---using-the-app-compat-toolkit-to-make-your-old-stuff-wo/374947
