@@ -77,3 +77,11 @@ https://learn.microsoft.com/en-us/sysinternals/downloads/procmon
 https://learn.microsoft.com/en-us/windows/msix/psf/package-support-framework-overview
 https://www.nuget.org/packages/Microsoft.PackageSupportFramework/1.0.240212.1
 https://psappdeploytoolkit.com/docs/3.10.2/reference/functions/Show-BalloonTip#related-links
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2-06-2025
+
+https://www.advancedinstaller.com/application-packaging-process.html ---refer this 
+Application Packaging Process - The End-to-End Tutorial
+The End-to-End application packaging process is presented in our complete tutorial. Check out the industry's best practices and insights.
+ 
