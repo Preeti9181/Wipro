@@ -87,3 +87,5 @@ The End-to-End application packaging process is presented in our complete tutori
  https://systemscenter.ru/act.en/html/d11397bb-696a-49e8-88ec-0be9c085aeaa.htm
  
 https://learn.microsoft.com/en-us/windows/win32/win7appqual/application-compatibility-toolkit--act-
+
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-7/cc766151(v=ws.10)
