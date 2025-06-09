@@ -96,8 +96,19 @@ Dependency Walker (depends.exe) Home Page
 https://learn.microsoft.com/en-us/sysinternals/downloads/procmon
 Process Monitor - Sysinternals
 Monitor file system, Registry, process, thread and DLL activity in real-time.
- 
+
+==========================================================================
+9-0
  https://techcommunity.microsoft.com/blog/askperf/demystifying-shims---or---using-the-app-compat-toolkit-to-make-your-old-stuff-wo/374947
 ---------------------------------------------------------------------------------------------------------
 05-06-2025
 https://www.microsoft.com/en-us/download/details.aspx?id=51189
+
+
+
+==============================
+
+Get-WmiObject -Class Win32_Keyboard
+Get-WmiObject
+Get-WmiObject -Class Win32_LogicalDisk
+Get-WmiObject -Query "SELECT * FROM Win32_LogicalDisk WHERE DriveType = 3"
